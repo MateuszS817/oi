@@ -46,7 +46,7 @@ void Dziel(int *x, int *y, int *z, int ile) {
         for(int i = 0; i < ile; i ++) {
             bool war = true;
             for(int k = 0; k < ile; k ++) {
-                if(x[i] < x[k] && y[i] < y[k] && z[i] < z[k]) {
+                if(x[i] > x[k] && y[i] > y[k] && z[i] > z[k]) {
                     war = false;
                     break;
                 }
