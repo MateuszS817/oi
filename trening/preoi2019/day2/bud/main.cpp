@@ -2,21 +2,19 @@
 using namespace std;
 int pot = 1;
 
-void Push(int n, int wart, int *d) {
+void Push(int n, int wart, int pot, int *d1, int *d2) {
     if(n >= pot * 2) {
         return;
     }
-    d[n] = wart;
-//    if(d[n] == 0) {
-//        d[n] = wart;
-//        return;
-//    }
-//    else {
-//        Push(n * 2, d[n], d);
-//        Push(n * 2 + 1, d[n], d);
-//        d[n] = wart;
-//        return;
-//    }
+    d2[n] = wart;
+    if (n>=pot) {
+        d1[n] = wart;
+    } else {
+        d1[n] = 0;
+    }
+    for(int i = n/2; i>0; i = i/2) {
+        d1[i] = d1[2 * i]^d1[2 * i + 1];
+    }
 }
 
 void Updt(int n, int a, int b, int lo, int hi, int wart, int pot, int *d1, int *d2) {
@@ -39,8 +37,8 @@ void Updt(int n, int a, int b, int lo, int hi, int wart, int pot, int *d1, int *
     }
     int mid = (lo + hi) / 2;
     if (d2[n] != 0) {
-        Push(n * 2, d2[n], d2);
-        Push(n * 2 + 1, d2[n], d2);
+        Push(n * 2, d2[n], pot, d1, d2);
+        Push(n * 2 + 1, d2[n], pot, d1, d2);
         d2[n] = 0;
     }
     Updt(n * 2, a, min(mid, b), lo, mid, wart, pot, d1, d2);
@@ -87,6 +85,7 @@ int main() {
         pot *= 2;
     }
     int d1[pot * 2], d2[pot * 2];
+    d1[0] = d2[0] = 0;
     for(int i = 0; i < n; i ++) {
         cin >> d1[i + pot];
     }
@@ -120,5 +119,13 @@ int main() {
 //        cout << d2[i]<< " ";
 //    }
 //    cout <<"\n";
-
+//    d1[20] = d1[23] = d1[22] = d1[24] = d1[25] = 9;
+//    d1[21] = 16;
+//    for(int i = pot - 1; i > 0; i --) {
+//        d1[i] = d1[i * 2] ^ d1[i * 2 + 1];
+//    }
+//
+//    for(int i=0; i<2*pot; i++){
+//        cout << d1[i]<< " ";
+//    }
 }
