@@ -5,5 +5,5 @@ set str=%str:~0,5%
 echo %str%
 
 for /f %%f in ('dir /b in\  ') do (
-	mar_naiw.exe < in\%%f > out\%%f
+	bud_naiw.exe < in\%%f > out\%%f
 ) 

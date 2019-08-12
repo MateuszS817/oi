@@ -1,0 +1,932 @@
+Comparing files OUT\bud_0.in and OUT_MATI\BUD_0.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_1.in and OUT_MATI\BUD_1.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_10.in and OUT_MATI\BUD_10.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_100.in and OUT_MATI\BUD_100.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_101.in and OUT_MATI\BUD_101.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_102.in and OUT_MATI\BUD_102.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_103.in and OUT_MATI\BUD_103.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_104.in and OUT_MATI\BUD_104.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_105.in and OUT_MATI\BUD_105.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_106.in and OUT_MATI\BUD_106.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_107.in and OUT_MATI\BUD_107.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_108.in and OUT_MATI\BUD_108.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_109.in and OUT_MATI\BUD_109.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_11.in and OUT_MATI\BUD_11.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_110.in and OUT_MATI\BUD_110.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_111.in and OUT_MATI\BUD_111.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_112.in and OUT_MATI\BUD_112.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_113.in and OUT_MATI\BUD_113.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_114.in and OUT_MATI\BUD_114.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_115.in and OUT_MATI\BUD_115.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_116.in and OUT_MATI\BUD_116.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_117.in and OUT_MATI\BUD_117.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_118.in and OUT_MATI\BUD_118.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_119.in and OUT_MATI\BUD_119.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_12.in and OUT_MATI\BUD_12.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_120.in and OUT_MATI\BUD_120.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_121.in and OUT_MATI\BUD_121.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_122.in and OUT_MATI\BUD_122.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_123.in and OUT_MATI\BUD_123.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_124.in and OUT_MATI\BUD_124.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_125.in and OUT_MATI\BUD_125.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_126.in and OUT_MATI\BUD_126.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_127.in and OUT_MATI\BUD_127.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_128.in and OUT_MATI\BUD_128.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_129.in and OUT_MATI\BUD_129.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_13.in and OUT_MATI\BUD_13.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_130.in and OUT_MATI\BUD_130.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_131.in and OUT_MATI\BUD_131.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_132.in and OUT_MATI\BUD_132.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_133.in and OUT_MATI\BUD_133.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_134.in and OUT_MATI\BUD_134.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_135.in and OUT_MATI\BUD_135.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_136.in and OUT_MATI\BUD_136.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_137.in and OUT_MATI\BUD_137.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_138.in and OUT_MATI\BUD_138.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_139.in and OUT_MATI\BUD_139.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_14.in and OUT_MATI\BUD_14.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_140.in and OUT_MATI\BUD_140.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_141.in and OUT_MATI\BUD_141.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_142.in and OUT_MATI\BUD_142.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_143.in and OUT_MATI\BUD_143.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_144.in and OUT_MATI\BUD_144.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_145.in and OUT_MATI\BUD_145.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_146.in and OUT_MATI\BUD_146.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_147.in and OUT_MATI\BUD_147.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_148.in and OUT_MATI\BUD_148.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_149.in and OUT_MATI\BUD_149.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_15.in and OUT_MATI\BUD_15.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_150.in and OUT_MATI\BUD_150.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_151.in and OUT_MATI\BUD_151.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_152.in and OUT_MATI\BUD_152.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_153.in and OUT_MATI\BUD_153.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_154.in and OUT_MATI\BUD_154.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_155.in and OUT_MATI\BUD_155.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_156.in and OUT_MATI\BUD_156.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_157.in and OUT_MATI\BUD_157.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_158.in and OUT_MATI\BUD_158.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_159.in and OUT_MATI\BUD_159.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_16.in and OUT_MATI\BUD_16.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_160.in and OUT_MATI\BUD_160.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_161.in and OUT_MATI\BUD_161.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_162.in and OUT_MATI\BUD_162.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_163.in and OUT_MATI\BUD_163.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_164.in and OUT_MATI\BUD_164.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_165.in and OUT_MATI\BUD_165.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_166.in and OUT_MATI\BUD_166.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_167.in and OUT_MATI\BUD_167.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_168.in and OUT_MATI\BUD_168.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_169.in and OUT_MATI\BUD_169.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_17.in and OUT_MATI\BUD_17.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_170.in and OUT_MATI\BUD_170.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_171.in and OUT_MATI\BUD_171.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_172.in and OUT_MATI\BUD_172.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_173.in and OUT_MATI\BUD_173.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_174.in and OUT_MATI\BUD_174.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_175.in and OUT_MATI\BUD_175.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_176.in and OUT_MATI\BUD_176.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_177.in and OUT_MATI\BUD_177.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_178.in and OUT_MATI\BUD_178.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_179.in and OUT_MATI\BUD_179.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_18.in and OUT_MATI\BUD_18.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_180.in and OUT_MATI\BUD_180.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_181.in and OUT_MATI\BUD_181.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_182.in and OUT_MATI\BUD_182.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_183.in and OUT_MATI\BUD_183.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_184.in and OUT_MATI\BUD_184.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_185.in and OUT_MATI\BUD_185.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_186.in and OUT_MATI\BUD_186.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_187.in and OUT_MATI\BUD_187.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_188.in and OUT_MATI\BUD_188.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_189.in and OUT_MATI\BUD_189.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_19.in and OUT_MATI\BUD_19.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_190.in and OUT_MATI\BUD_190.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_191.in and OUT_MATI\BUD_191.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_192.in and OUT_MATI\BUD_192.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_193.in and OUT_MATI\BUD_193.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_194.in and OUT_MATI\BUD_194.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_195.in and OUT_MATI\BUD_195.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_196.in and OUT_MATI\BUD_196.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_197.in and OUT_MATI\BUD_197.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_198.in and OUT_MATI\BUD_198.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_199.in and OUT_MATI\BUD_199.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_2.in and OUT_MATI\BUD_2.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_20.in and OUT_MATI\BUD_20.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_200.in and OUT_MATI\BUD_200.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_201.in and OUT_MATI\BUD_201.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_202.in and OUT_MATI\BUD_202.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_203.in and OUT_MATI\BUD_203.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_204.in and OUT_MATI\BUD_204.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_205.in and OUT_MATI\BUD_205.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_206.in and OUT_MATI\BUD_206.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_207.in and OUT_MATI\BUD_207.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_208.in and OUT_MATI\BUD_208.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_209.in and OUT_MATI\BUD_209.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_21.in and OUT_MATI\BUD_21.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_210.in and OUT_MATI\BUD_210.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_211.in and OUT_MATI\BUD_211.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_212.in and OUT_MATI\BUD_212.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_213.in and OUT_MATI\BUD_213.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_214.in and OUT_MATI\BUD_214.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_215.in and OUT_MATI\BUD_215.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_216.in and OUT_MATI\BUD_216.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_217.in and OUT_MATI\BUD_217.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_218.in and OUT_MATI\BUD_218.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_219.in and OUT_MATI\BUD_219.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_22.in and OUT_MATI\BUD_22.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_220.in and OUT_MATI\BUD_220.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_221.in and OUT_MATI\BUD_221.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_222.in and OUT_MATI\BUD_222.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_223.in and OUT_MATI\BUD_223.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_224.in and OUT_MATI\BUD_224.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_225.in and OUT_MATI\BUD_225.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_226.in and OUT_MATI\BUD_226.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_227.in and OUT_MATI\BUD_227.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_228.in and OUT_MATI\BUD_228.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_229.in and OUT_MATI\BUD_229.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_23.in and OUT_MATI\BUD_23.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_230.in and OUT_MATI\BUD_230.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_231.in and OUT_MATI\BUD_231.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_232.in and OUT_MATI\BUD_232.IN
+***** OUT\bud_232.in
+0
+0
+0
+2
+***** OUT_MATI\BUD_232.IN
+0
+121
+68
+2
+*****
+
+Comparing files OUT\bud_233.in and OUT_MATI\BUD_233.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_234.in and OUT_MATI\BUD_234.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_235.in and OUT_MATI\BUD_235.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_236.in and OUT_MATI\BUD_236.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_237.in and OUT_MATI\BUD_237.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_238.in and OUT_MATI\BUD_238.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_239.in and OUT_MATI\BUD_239.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_24.in and OUT_MATI\BUD_24.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_240.in and OUT_MATI\BUD_240.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_241.in and OUT_MATI\BUD_241.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_242.in and OUT_MATI\BUD_242.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_243.in and OUT_MATI\BUD_243.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_244.in and OUT_MATI\BUD_244.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_245.in and OUT_MATI\BUD_245.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_246.in and OUT_MATI\BUD_246.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_247.in and OUT_MATI\BUD_247.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_248.in and OUT_MATI\BUD_248.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_249.in and OUT_MATI\BUD_249.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_25.in and OUT_MATI\BUD_25.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_250.in and OUT_MATI\BUD_250.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_251.in and OUT_MATI\BUD_251.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_252.in and OUT_MATI\BUD_252.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_253.in and OUT_MATI\BUD_253.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_254.in and OUT_MATI\BUD_254.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_255.in and OUT_MATI\BUD_255.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_256.in and OUT_MATI\BUD_256.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_257.in and OUT_MATI\BUD_257.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_258.in and OUT_MATI\BUD_258.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_259.in and OUT_MATI\BUD_259.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_26.in and OUT_MATI\BUD_26.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_260.in and OUT_MATI\BUD_260.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_261.in and OUT_MATI\BUD_261.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_262.in and OUT_MATI\BUD_262.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_263.in and OUT_MATI\BUD_263.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_264.in and OUT_MATI\BUD_264.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_265.in and OUT_MATI\BUD_265.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_266.in and OUT_MATI\BUD_266.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_267.in and OUT_MATI\BUD_267.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_268.in and OUT_MATI\BUD_268.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_269.in and OUT_MATI\BUD_269.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_27.in and OUT_MATI\BUD_27.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_270.in and OUT_MATI\BUD_270.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_271.in and OUT_MATI\BUD_271.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_272.in and OUT_MATI\BUD_272.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_273.in and OUT_MATI\BUD_273.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_274.in and OUT_MATI\BUD_274.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_275.in and OUT_MATI\BUD_275.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_276.in and OUT_MATI\BUD_276.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_277.in and OUT_MATI\BUD_277.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_278.in and OUT_MATI\BUD_278.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_279.in and OUT_MATI\BUD_279.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_28.in and OUT_MATI\BUD_28.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_280.in and OUT_MATI\BUD_280.IN
+***** OUT\bud_280.in
+56
+21
+0
+***** OUT_MATI\BUD_280.IN
+56
+30
+87
+79
+0
+*****
+
+***** OUT\bud_280.in
+24
+0
+***** OUT_MATI\BUD_280.IN
+*****
+
+Comparing files OUT\bud_281.in and OUT_MATI\BUD_281.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_282.in and OUT_MATI\BUD_282.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_283.in and OUT_MATI\BUD_283.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_284.in and OUT_MATI\BUD_284.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_285.in and OUT_MATI\BUD_285.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_286.in and OUT_MATI\BUD_286.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_287.in and OUT_MATI\BUD_287.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_288.in and OUT_MATI\BUD_288.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_289.in and OUT_MATI\BUD_289.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_29.in and OUT_MATI\BUD_29.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_290.in and OUT_MATI\BUD_290.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_291.in and OUT_MATI\BUD_291.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_292.in and OUT_MATI\BUD_292.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_293.in and OUT_MATI\BUD_293.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_294.in and OUT_MATI\BUD_294.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_295.in and OUT_MATI\BUD_295.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_296.in and OUT_MATI\BUD_296.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_297.in and OUT_MATI\BUD_297.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_298.in and OUT_MATI\BUD_298.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_299.in and OUT_MATI\BUD_299.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_3.in and OUT_MATI\BUD_3.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_30.in and OUT_MATI\BUD_30.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_31.in and OUT_MATI\BUD_31.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_32.in and OUT_MATI\BUD_32.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_33.in and OUT_MATI\BUD_33.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_34.in and OUT_MATI\BUD_34.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_35.in and OUT_MATI\BUD_35.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_36.in and OUT_MATI\BUD_36.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_37.in and OUT_MATI\BUD_37.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_38.in and OUT_MATI\BUD_38.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_39.in and OUT_MATI\BUD_39.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_4.in and OUT_MATI\BUD_4.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_40.in and OUT_MATI\BUD_40.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_41.in and OUT_MATI\BUD_41.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_42.in and OUT_MATI\BUD_42.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_43.in and OUT_MATI\BUD_43.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_44.in and OUT_MATI\BUD_44.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_45.in and OUT_MATI\BUD_45.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_46.in and OUT_MATI\BUD_46.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_47.in and OUT_MATI\BUD_47.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_48.in and OUT_MATI\BUD_48.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_49.in and OUT_MATI\BUD_49.IN
+***** OUT\bud_49.in
+13
+8
+***** OUT_MATI\BUD_49.IN
+13
+15
+*****
+
+Comparing files OUT\bud_5.in and OUT_MATI\BUD_5.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_50.in and OUT_MATI\BUD_50.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_51.in and OUT_MATI\BUD_51.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_52.in and OUT_MATI\BUD_52.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_53.in and OUT_MATI\BUD_53.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_54.in and OUT_MATI\BUD_54.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_55.in and OUT_MATI\BUD_55.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_56.in and OUT_MATI\BUD_56.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_57.in and OUT_MATI\BUD_57.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_58.in and OUT_MATI\BUD_58.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_59.in and OUT_MATI\BUD_59.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_6.in and OUT_MATI\BUD_6.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_60.in and OUT_MATI\BUD_60.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_61.in and OUT_MATI\BUD_61.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_62.in and OUT_MATI\BUD_62.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_63.in and OUT_MATI\BUD_63.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_64.in and OUT_MATI\BUD_64.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_65.in and OUT_MATI\BUD_65.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_66.in and OUT_MATI\BUD_66.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_67.in and OUT_MATI\BUD_67.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_68.in and OUT_MATI\BUD_68.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_69.in and OUT_MATI\BUD_69.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_7.in and OUT_MATI\BUD_7.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_70.in and OUT_MATI\BUD_70.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_71.in and OUT_MATI\BUD_71.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_72.in and OUT_MATI\BUD_72.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_73.in and OUT_MATI\BUD_73.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_74.in and OUT_MATI\BUD_74.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_75.in and OUT_MATI\BUD_75.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_76.in and OUT_MATI\BUD_76.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_77.in and OUT_MATI\BUD_77.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_78.in and OUT_MATI\BUD_78.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_79.in and OUT_MATI\BUD_79.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_8.in and OUT_MATI\BUD_8.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_80.in and OUT_MATI\BUD_80.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_81.in and OUT_MATI\BUD_81.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_82.in and OUT_MATI\BUD_82.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_83.in and OUT_MATI\BUD_83.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_84.in and OUT_MATI\BUD_84.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_85.in and OUT_MATI\BUD_85.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_86.in and OUT_MATI\BUD_86.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_87.in and OUT_MATI\BUD_87.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_88.in and OUT_MATI\BUD_88.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_89.in and OUT_MATI\BUD_89.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_9.in and OUT_MATI\BUD_9.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_90.in and OUT_MATI\BUD_90.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_91.in and OUT_MATI\BUD_91.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_92.in and OUT_MATI\BUD_92.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_93.in and OUT_MATI\BUD_93.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_94.in and OUT_MATI\BUD_94.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_95.in and OUT_MATI\BUD_95.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_96.in and OUT_MATI\BUD_96.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_97.in and OUT_MATI\BUD_97.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_98.in and OUT_MATI\BUD_98.IN
+FC: no differences encountered
+
+Comparing files OUT\bud_99.in and OUT_MATI\BUD_99.IN
+FC: no differences encountered
+

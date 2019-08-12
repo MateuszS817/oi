@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1565544919 source:c:\mati\oi\trening\preoi2019\day2\bud_gen\main.cpp
+1565550975 source:c:\mati\oi\trening\preoi2019\day2\bud_gen\main.cpp
 	<iostream>
 	<fstream>
 	<cmath>
